@@ -22,8 +22,6 @@ In order to get started with submitting issues and reports, click the `Issues` b
 
 ![Kanban Example](./Images/Tutorial/Issues_New.png)
 
-![Kanban Example](./Images/Tutorial/Issue_Vote.png)
-
 Then select a template from a given list of available templates.
 
 ![Kanban Example](./Images/Tutorial/Issues_Template.png)

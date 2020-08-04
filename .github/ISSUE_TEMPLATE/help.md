@@ -1,6 +1,6 @@
 ---
 name: Help
-about: Please help me with <X>
+about: Please help me with <X>.
 title: 'Help: Please help me with <X>'
 labels: help wanted
 assignees: ''

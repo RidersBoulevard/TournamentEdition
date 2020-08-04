@@ -7,17 +7,15 @@ assignees: ''
 
 ---
 
-<TEMP>
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Run the Game ROM
+2. Set up Race (e.g. Mode, Characters)
+3. Perform **X**
+4. See Error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.

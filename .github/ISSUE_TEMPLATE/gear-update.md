@@ -1,7 +1,7 @@
 ---
 name: Gear Update
 about: Suggest an alteration or update to an existing gear slot.
-title: Gear Update: <Name> Gear
+title: 'Gear Update: <Name> Gear'
 labels: enhancement
 assignees: ''
 

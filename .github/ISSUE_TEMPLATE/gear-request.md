@@ -1,7 +1,7 @@
 ---
 name: Gear Request
 about: Suggest a new gear for an existing vacant gear slot.
-title: Gear Request: <Gear Name/Description>
+title: 'Gear Request: <Gear Name/Description>'
 labels: enhancement
 assignees: ''
 
